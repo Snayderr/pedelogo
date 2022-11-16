@@ -28,6 +28,6 @@ spec:
         - name: Mongo__Password
           value: "mongopwd"
         - name: Mongo__Port
-          value: "21017"
+          value: "27017"
         - name: Mongo__DataBase
           value: "admin"
